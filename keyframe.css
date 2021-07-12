@@ -1,0 +1,17 @@
+@keyframes zoom {
+    from{
+        transform: scale(0);
+    }
+    to{
+        transform: scale(1);
+    }
+}
+
+@keyframes translateY{
+    form{
+         transform: translateY(0px);
+    }
+    to{
+        transform: translateY(-25px);
+    }
+}
